@@ -1,0 +1,32 @@
+_repo: Tales-of-the-Wilderness_7501
+creator:
+  author:
+    agent_name: Pilniak, Boris
+    aliases:
+    - Pilnjak, Boris
+    - Vogau, Boris Andreevich
+    - Вогау, Борис Андреевич
+    - Пильняк, Борис
+    birthdate: 1894
+    deathdate: 1937
+    gutenberg_agent_id: '2492'
+    url: http://www.gutenberg.org/2009/agents/2492
+    wikipedia: http://en.wikipedia.org/wiki/Boris_Pilnyak
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7501'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soviet Union -- Social life and customs -- Fiction'
+- !lcsh 'Pilniak, Boris, 1894-1937 -- Translations into English'
+- !lcc 'PG'
+tableOfContents: The snow -- A year of their lives -- A thousand years -- Over the
+  ravine -- Always on detachment -- The snow wind -- The forest manor -- The Bielokonsky
+  estate -- Death -- The heirs -- The crossways.
+title: Tales of the Wilderness
+url: http://www.gutenberg.org/ebooks/7501
